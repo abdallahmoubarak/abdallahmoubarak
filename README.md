@@ -1,4 +1,4 @@
-<img alt='' width=100% src='https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1380&t=st=1661980710~exp=1661981310~hmac=59cf1d0801eaf1945a97cf114f5acb04330e14eca79bb0c6fe2ae7b07f20e42e'/>
+<img alt='' src='https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1380&t=st=1661980710~exp=1661981310~hmac=59cf1d0801eaf1945a97cf114f5acb04330e14eca79bb0c6fe2ae7b07f20e42e'/>
 <h1 align="center">Hi 👋, I'm Abdallah Moubarak</h1>
 <h3 align="center">A full stack developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
