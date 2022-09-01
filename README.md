@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahmoubarak&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahmoubarak" /> </p>
 
-<p align="left"><img alt='' height='120px'  src='https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg'/></p>
-<p align="left"><img alt='' height='150px'  src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png'/></p>
+<p align="left"><img alt='' height='80px'  src='https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg'/></p>
+<p align="left"><img alt='' height='100px'  src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png'/></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmoubarak" alt="abdallahmoubarak" /></a> </p>
