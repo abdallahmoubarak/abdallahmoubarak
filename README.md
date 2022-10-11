@@ -4,6 +4,8 @@
 
 <h2 align="center">A full stack developer from Lebanon</h2>
 
+---
+
 <img align="right" alt="Coding" width="400" src="./src/programmer.gif">
 <p align="left">
   <img  src="https://komarev.com/ghpvc/?username=abdallahmoubarak&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahmoubarak" />
@@ -12,8 +14,6 @@
 <p align="left"><img height='100px'  src='./src/Nextjs.png' alt=''/></p>
 
 <p align="left"><img height='70px'  src='./src/neo4j.svg' alt=''/></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmoubarak" alt="abdallahmoubarak" /></a> </p>
 
 ---
 
@@ -29,7 +29,12 @@
 
 ### 💬 Contact me
 
-<a href="https://www.linkedin.com/in/abdallah-mobarak"> <img src="./src/linkedin-icon.svg" alt="linkedin" width="30" height="30"/> </a><a href="https://wa.me/96170097533"><img src="./src/whatsapp-icon.svg" alt="whatsapp" width="38" height="30"/></a><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfprwfPWPtlpHjDVmzCFqtqnwSCxHdxcFxwsSFbpGrFbkhvmpjlbmWDKKhtvvKchTZldNB"><img src="./src/gmail-icon.svg" alt="whatsapp" width="34" height="32"/> </a>
+<p align=left ><a href="https://www.linkedin.com/in/abdallah-mobarak"> <img src="./src/linkedin-icon.svg" alt="linkedin" width="45" height="45"/> </a><a href="https://wa.me/96170097533"><img src="./src/whatsapp-icon.svg" alt="whatsapp" width="80" height="47"/></a><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfprwfPWPtlpHjDVmzCFqtqnwSCxHdxcFxwsSFbpGrFbkhvmpjlbmWDKKhtvvKchTZldNB"><img src="./src/gmail-icon.svg" alt="whatsapp" width="54" height="52"/> </a>
+</p>
+
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmoubarak" alt="abdallahmoubarak" /></a> </p>
 
 ---
 
