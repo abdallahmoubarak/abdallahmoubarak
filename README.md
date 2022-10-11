@@ -3,10 +3,15 @@
 <h2 align="center">A full stack developer from Lebanon</h2>
 
 <img align="right" alt="Coding" width="400" src="./src/programmer.gif">
-<p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=abdallahmoubarak&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahmoubarak" /></p>
+<p align="left">
+  <img  src="https://komarev.com/ghpvc/?username=abdallahmoubarak&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahmoubarak" />
+</p>
 
-<p align="left"><img height='80px'  src='./src/neo4j.svg' alt=''/></p>
 <p align="left"><img height='100px'  src='./src/Nextjs.png' alt=''/></p>
+
+<p align="left"><img height='70px'  src='./src/neo4j.svg' alt=''/></p>
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmoubarak" alt="abdallahmoubarak" /></a> </p>
 
