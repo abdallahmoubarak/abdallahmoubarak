@@ -4,7 +4,6 @@
 
 <h2 align="center">A full stack developer from Lebanon</h2>
 
----
 
 <img align="right" alt="Coding" width="400" src="./src/programmer.gif">
 <p align="left">
