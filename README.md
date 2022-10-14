@@ -65,8 +65,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahmoubarak&" alt="abdallahmoubarak" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahmoubarak&theme=deafult)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahmoubarak&show_icons=true&locale=en" alt="abdallahmoubarak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahmoubarak&show_icons=true&locale=en&layout=compact" alt="abdallahmoubarak" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahmoubarak&show_icons=true&locale=en" alt="abdallahmoubarak" /></p>
 
 <img src='./src/footer.svg'/>
