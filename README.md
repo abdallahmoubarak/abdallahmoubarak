@@ -6,6 +6,20 @@
 
 ---
 
+## Index
+
+#### [About me](#✨️-about-me)
+
+#### [Contact me](#💬-contact-me)
+
+#### [Languages and Tools](#🧰-languages-and-tools)
+
+#### [Some projects](#🔮-some-projects)
+
+#### [Statistics](#📊-statistics)
+
+---
+
 <img align="right" alt="Coding" width="400" src="./src/programmer.gif" />
 <p align="left">
   <img
@@ -170,7 +184,16 @@
     </td>
     <td><img src="./src/edu.svg" height="60" height="50" /></td>
   </tr>
-   <tr>
+  <tr>
+    <td><h4>Friendoo - Dating app</h4></td>
+    <td>
+      <a href="https://github.com/abdallahmoubarak/friendoo-dating-app"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/friendoo.svg" height="60" height="50" /></td>
+  </tr>
+  <tr>
     <td><h4>E-commerce - team project</h4></td>
     <td>
       <a href="https://github.com/abdallahmoubarak/e-commerce-team-project"
