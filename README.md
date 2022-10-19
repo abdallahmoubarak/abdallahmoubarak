@@ -167,6 +167,15 @@
   </tr>
   <!-- new project -->
   <tr>
+    <td><h4>Water Monster</h4></td>
+    <td>
+      <a href="https://github.com/abdallahmoubarak/water-monster"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/water_monster.svg" height="50" height="55" /></td>
+  </tr>
+  <tr>
     <td><h4>LinkedIn clone</h4></td>
     <td>
       <a href="https://github.com/abdallahmoubarak/simple-linkedin-clone"
