@@ -8,15 +8,15 @@
 
 ## Index
 
-#### [About me](#✨️-about-me)
+#### [About me](#about-me)
 
-#### [Contact me](#💬-contact-me)
+#### [Contact me](#contact-me)
 
-#### [Languages and Tools](#🧰-languages-and-tools)
+#### [Languages and Tools](#languages-and-tools)
 
-#### [Some projects](#🔮-some-projects)
+#### [Some projects](#some-projects)
 
-#### [Statistics](#📊-statistics)
+#### [Statistics](#statistics)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## ✨️ About me:
+<h2 id='about-me'> ✨️ About me:</h2>
 
 - 🌱 I’m currently learning **Firebase**
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 💬 Contact me
+<h2 id='contact-me'> 💬 Contact me </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdallah-mobarak">
@@ -78,7 +78,7 @@
 
 ---
 
-## 🧰 Languages and Tools:
+<h2 id='languages-and-tools'> 🧰 Languages and Tools:</h2>
 
 <table>
   <tr>
@@ -157,7 +157,7 @@
 
 ---
 
-## 🔮 Some projects
+<h2 id='some-projects'> 🔮 Some projects</h2>
 
 <table>
   <tr>
@@ -269,7 +269,7 @@
 
 ---
 
-## 📊 Statistics
+<h2 id='statistics'> 📊 Statistics </h2>
 
 <p>
   <img
