@@ -143,7 +143,106 @@
 
 ---
 
-## 🔮 Projects
+## 🔮 Some projects
+
+<table>
+  <tr>
+    <th>Project name</th>
+    <th>Project link</th>
+    <th>Project logo</th>
+  </tr>
+  <!-- new project -->
+  <tr>
+    <td><h4>LinkedIn clone</h4></td>
+    <td>
+      <a href="https://github.com/abdallahmoubarak/simple-linkedin-clone"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/linkedin-icon.svg" height="55" height="55" /></td>
+  </tr>
+  <tr>
+    <td><h4>E-learning system</h4></td>
+    <td>
+      <a href="https://github.com/abdallahmoubarak/e-learning-system-laravel-react-mongodb"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/edu.svg" height="60" height="50" /></td>
+  </tr>
+   <tr>
+    <td><h4>E-commerce - team project</h4></td>
+    <td>
+      <a href="https://github.com/abdallahmoubarak/e-commerce-team-project"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/spruce.svg" height="60" height="60" /></td>
+  </tr>
+  <tr>
+    <td><h4>Twitter clone - team project</h4></td>
+    <td>
+      <a href="https://github.com/abdallahmoubarak/twitter-clone-team-project"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/twitter.svg" height="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td><h4>Smart Crystal</h4></td>
+    <td>
+      <a href="https://smart-crystal.vercel.app/"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/sc.png" height="60" height="60" /></td>
+  </tr>
+  <tr>
+    <td><h4>EMR</h4></td>
+    <td>
+      <a href="https://emr.vercel.app/"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/emr.png" height="58" height="58" /></td>
+  </tr>
+  <tr>
+    <td><h4>Za menu</h4></td>
+    <td>
+      <a href="https://za-menu.vercel.app/"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/za_menu.png" height="60" height="60" /></td>
+  </tr>
+  <tr>
+    <td><h4>Moge Tee</h4></td>
+    <td>
+      <a href="https://mogetee.vercel.app/"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/mogetee.png" height="60" height="60" /></td>
+  </tr>
+  <tr>
+    <td><h4>Za market</h4></td>
+    <td>
+      <a href="https://za-market.vercel.app/"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/za_market.png" height="60" height="60" /></td>
+  </tr>
+  <tr>
+    <td><h4>Want to see more !?</h4></td>
+    <td>
+      <a href="https://abdallah.mobi/My%20Work"
+        >link</a
+      >
+    </td>
+    <td><img src="./src/icon.png" height="60" height="60" /></td>
+  </tr>
+</table>
 
 ---
 
