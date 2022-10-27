@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello world 👋, I'm Abdallah Moubarak</h1>
 
-<h2 align="center">A full stack developer from Lebanon</h2>
+<h3 align="center">A full stack developer from Lebanon</h3>
 
 ---
 
