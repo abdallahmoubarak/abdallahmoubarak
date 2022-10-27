@@ -1,6 +1,6 @@
 <img src='./src/header.svg'/>
 
-<h1 align="center">Hello world 👋 </h1> <h1 align="center">I'm Abdallah Moubarak</h1>
+<h1 align="center">Hello world 👋, I'm </h1> <h1 align="center">Abdallah Moubarak</h1>
 
 <h4 align="center">A full stack developer from Lebanon</h4>
 
