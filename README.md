@@ -9,11 +9,11 @@
 
 
 ## Index
-#### [About me](#about)
-#### [Contact me](#contact)
-#### [Languages and Tools](#languages)
-#### [Some projects](#some)
-#### [Statistics](#statistic)
+#### [✨️ About me](#about)
+#### [💬 Contact me](#contact)
+#### [🧰 Languages and Tools](#languages)
+#### [🔮 Some projects](#some)
+#### [📊 Statistics](#statistic)
 
 ---
 
