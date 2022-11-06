@@ -1,21 +1,18 @@
 <img src='./src/header.svg'/>
 
-<h3 align="center">Hello world 👋, I'm </h3> <h1 align="center">Abdallah Moubarak</h1>
+<h3 align="center">Hello world 👋, I'm</h3>
 
-<h4 align="center">A full stack developer from Lebanon</h4>
+<h1 align="center">Abdallah Moubarak</h1>
 
----
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=A%20full-stack%20web%20developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Nice%20to%20meet%20you&font=Nunito&center=true&color=43B9C3&vCenter=true&size=28&pause=600" />
+</p>
+
 
 ## Index
-
 #### [About me](#about)
-
 #### [Contact me](#contact)
-
 #### [Languages and Tools](#languages)
-
 #### [Some projects](#some)
-
 #### [Statistics](#statistic)
 
 ---
