@@ -63,7 +63,7 @@
   </a>
 </p>
 
-#
+<!-- #
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -71,7 +71,7 @@
       src="https://github-profile-trophy.vercel.app/?username=abdallahmoubarak"
       alt="abdallahmoubarak"
   /></a>
-</p>
+</p> -->
 
 ---
 
