@@ -8,6 +8,7 @@
 </p>
 
 #
+
 <p align="center">
   <a href="#about">✨️ About me </a> / <a href="#about">💬 Contact me </a> /  <a href="#languages">🧰 Languages and Tools </a>  / <a href="#some">🔮 Some projects </a> /  <a>📊 Statistics </a>
 </p>
@@ -62,7 +63,7 @@
   </a>
 </p>
 
----
+#
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -272,7 +273,7 @@
   </tr>
 </table>
 
----
+#
 
 <h2 id='statistic'> 📊 Statistics </h2>
 
