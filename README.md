@@ -28,7 +28,7 @@
 </p>
 <p align="left"><img height="70px" src="./src/neo4j.svg" alt="" /></p>
 
----
+#
 
 <h2 id='about'> ✨️ About me:</h2>
 
@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **abdallah.moubarak92@gmail.com**
 
----
+#
 
 <h2 id='contact'> 💬 Contact me </h2>
 
@@ -73,7 +73,7 @@
   /></a>
 </p> -->
 
----
+#
 
 <h2 id='languages'> 🧰 Languages and Tools:</h2>
 
@@ -152,7 +152,7 @@
   </tr>
 </table>
 
----
+#
 
 <h2 id='some'> 🔮 Some projects</h2>
 
