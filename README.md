@@ -7,15 +7,12 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=A%20full-stack%20web%20developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Nice%20to%20meet%20you&font=Nunito&center=true&color=43B9C3&vCenter=true&size=28&pause=600" />
 </p>
 
+#
+<p align="center">
+  <a href="#about">✨️ About me </a> / <a href="#about">💬 Contact me </a> /  <a href="#languages">🧰 Languages and Tools </a>  / <a href="#some">🔮 Some projects </a> /  <a>📊 Statistics </a>
+</p>
 
-## Index
-#### [✨️ About me](#about)
-#### [💬 Contact me](#contact)
-#### [🧰 Languages and Tools](#languages)
-#### [🔮 Some projects](#some)
-#### [📊 Statistics](#statistic)
-
----
+#
 
 <img align="right" alt="Coding" width="400" src="./src/programmer.gif" />
 <p align="left">
@@ -24,8 +21,10 @@
     alt="abdallahmoubarak" />
 </p>
 
-<p align="left"><img height="100px" src="./src/Nextjs.png" alt="" /></p>
-
+<p align="left">
+  <img height="100px" src="./src/Nextjs.png" alt="" />
+  <img src="./src/graphql-icon.svg" width="100" height="70" />
+</p>
 <p align="left"><img height="70px" src="./src/neo4j.svg" alt="" /></p>
 
 ---
