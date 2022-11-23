@@ -32,7 +32,7 @@
 
 <h2 id='about'> ✨️ About me:</h2>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 Some of my projects are available at [abdallah.mobi](abdallah.mobi)
 
@@ -128,6 +128,9 @@
       <img src="./src/laravel-plain-wordmark.svg" width="40" height="40" />
       <img src="./src/electron-original.svg" width="40" height="40" />
       <img src="./src/nodejs-original-wordmark.svg" width="43" height="43" />
+      <img src="./src/socketio.svg" width="80" height="40" />
+      <img src="./src/firebase.svg" width="80" height="40" />
+       <img src="./src/reactquery.svg" width="80" height="40" />
       <img src="./src/express-original-wordmark.svg" width="40" height="40" />
       <img src="./src/redux-original.svg" width="40" height="40" />
       <img src="./src/sass-original.svg" width="40" height="40" />
