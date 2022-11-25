@@ -113,7 +113,7 @@
       <img src="./src/git-scm-icon.svg" width="40" height="40" />
       <img src="./src/linux-original.svg" width="40" height="40" />
       <img src="./src/raspberrypi-icon.svg" width="40" height="40" />
-      <img src="./src/arduino.svg" width="40" height="40" />
+      <img src="./src/arduino.svg" width="60" height="40" />
     </td>
   </tr>
 
