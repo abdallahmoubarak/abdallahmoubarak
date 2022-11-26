@@ -36,7 +36,7 @@
 
 - 👨‍💻 Some of my projects are available at [abdallah.mobi](abdallah.mobi)
 
-- 💬 Ask me about **react, nextjs, neo4j, graphql**
+- 💬 Ask me about **React, Nextjs, Neo4j, Graphql**
 
 - 📫 How to reach me **abdallah.moubarak92@gmail.com**
 
