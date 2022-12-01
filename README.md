@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 Some of my projects are available at [abdallah.mobi](abdallah.mobi)
+- 👨‍💻 Some of my projects are available at [abdallah.mobi](https://abdallah.mobi)
 
 - 💬 Ask me about **React, Nextjs, Neo4j, Graphql**
 
