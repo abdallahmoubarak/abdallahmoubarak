@@ -296,9 +296,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahmoubarak&show_icons=true&locale=en" alt="abdallahmoubarak" />
 </p>
 
-<img src='./src/footer.svg'/>
-
 <h4>Activity Chart for the past year:</h4>
 <p align="left">
   <img align="center" src="./profile-3d-contrib/profile-green-animate.svg" alt="3d" width="95%" />
 </p>
+
+<img src='./src/footer.svg'/>
