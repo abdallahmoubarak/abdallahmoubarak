@@ -300,5 +300,5 @@
 
 <h4>Activity Chart for the past year:</h4>
 <p align="left">
-  <img align="center" src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3d" width="95%" />
+  <img align="center" src="./profile-3d-contrib/profile-green-animate.svg" alt="3d" width="95%" />
 </p>
